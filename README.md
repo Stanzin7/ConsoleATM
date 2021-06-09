@@ -9,14 +9,14 @@ ATM class -> Is the console interface for the ATM where the two account IDs will
 
 ## Withdraw Example
 
-Login<br><br>
+Login<br>
 ![Login](https://github.com/Tripl3R/ConsoleATM/blob/master/login.PNG?raw=true) 
 
-Account Info <br><br>
+Account Info <br>
 ![AccountInfo](https://github.com/Tripl3R/ConsoleATM/blob/master/accountinfo.PNG?raw=true) 
 
-Withdraw Amount<br><br>
+Withdraw Amount<br>
 ![Withdraw](https://github.com/Tripl3R/ConsoleATM/blob/master/withdraw.PNG?raw=true) 
 
-Amount After Withdraw <br><br>
+Amount After Withdraw <br>
 ![Final Amount](https://github.com/Tripl3R/ConsoleATM/blob/master/final.PNG?raw=true) 
