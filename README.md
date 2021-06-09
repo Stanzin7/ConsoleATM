@@ -2,8 +2,7 @@
 
 ConsoleATM is a simple console based ATM assignment that has two classes, Account and ATM. 
 
-Account class ->  Keeps track of customer information (customer name, balance, etc.) <br>
-                       ->  Perform transactions like depositing and withdrawing money from account
+Account class ->  Keeps track of customer information (customer name, balance, etc.), Perform transactions like depositing and withdrawing money from account
               
 ATM class -> Is the console interface for the ATM where the two account IDs will be set up (101, 102) as well as the balance and the annual interest rate for each account. 
 
