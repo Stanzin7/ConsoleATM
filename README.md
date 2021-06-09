@@ -12,3 +12,6 @@ ATM class -> Is the console interface for the ATM where the two account IDs will
 
 ![AccountInfo](https://github.com/Tripl3R/ConsoleATM/blob/master/accountinfo.PNG?raw=true) 
 
+![Withdraw](https://github.com/Tripl3R/ConsoleATM/blob/master/withdraw.PNG?raw=true) 
+
+![Withdraw](https://github.com/Tripl3R/ConsoleATM/blob/master/final.PNG?raw=true) 
